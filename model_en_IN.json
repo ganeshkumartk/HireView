@@ -1,0 +1,228 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "hire view",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetGeneralTipIntent",
+                    "slots": [],
+                    "samples": [
+                        "interview tips",
+                        "general interview tips",
+                        "tips",
+                        "tips for job interview",
+                        "tips for internship interview"
+                    ]
+                },
+                {
+                    "name": "GetCodingTipIntent",
+                    "slots": [],
+                    "samples": [
+                        "coding tips",
+                        "coding interview tips",
+                        "programming interview tips",
+                        "software interview tips",
+                        "tips for coding interviews",
+                        "tips for programming interviews"
+                    ]
+                },
+                {
+                    "name": "GetTechTipIntent",
+                    "slots": [],
+                    "samples": [
+                        "tech interview tips",
+                        "technical interview tips",
+                        "technology tips",
+                        "tech tips",
+                        "tech tip",
+                        "tips for technolgy interviews ",
+                        "tips for tech interviews"
+                    ]
+                },
+                {
+                    "name": "GetBusinessTipIntent",
+                    "slots": [],
+                    "samples": [
+                        "business interview tips",
+                        "business tips",
+                        "business tip",
+                        "tips for business interviews"
+                    ]
+                },
+                {
+                    "name": "GetCollegeTipIntent",
+                    "slots": [],
+                    "samples": [
+                        "college interview tips",
+                        "school interview tips",
+                        "tips for college interviews",
+                        "tips for univeristy interviews",
+                        "college tips"
+                    ]
+                },
+                {
+                    "name": "GeneralJobQuestionIntent",
+                    "slots": [],
+                    "samples": [
+                        "ask me a general question",
+                        "ask me a general job question",
+                        "ask me an interview question",
+                        "ask me a question",
+                        "general question",
+                        "any question"
+                    ]
+                },
+                {
+                    "name": "CodingQuestionIntent",
+                    "slots": [],
+                    "samples": [
+                        "ask me a coding question",
+                        "ask me a programming question",
+                        "coding question",
+                        "coding",
+                        "interview coding question"
+                    ]
+                },
+                {
+                    "name": "TechQuestionIntent",
+                    "slots": [],
+                    "samples": [
+                        "ask me a tech question",
+                        "ask me a technical question",
+                        "ask me a technical interview question",
+                        "tech question"
+                    ]
+                },
+                {
+                    "name": "BusinessQuestionIntent",
+                    "slots": [],
+                    "samples": [
+                        "ask me a business question",
+                        "ask me a marketing question",
+                        "ask me a start up question",
+                        "business question "
+                    ]
+                },
+                {
+                    "name": "CollegeQuestionIntent",
+                    "slots": [],
+                    "samples": [
+                        "ask me a college question",
+                        "ask me a school question",
+                        "ask me a college interview question",
+                        "school interview question",
+                        "school question",
+                        "college interview",
+                        "school interview",
+                        "college interview questions"
+                    ]
+                },
+                {
+                    "name": "StartJobInterviewIntent",
+                    "slots": [],
+                    "samples": [
+                        "start an interview",
+                        "interview me",
+                        "do a practice interview",
+                        "do a mock interview",
+                        "practice interview",
+                        "mock interview",
+                        "ask me multiple questions",
+                        "simulate an interview",
+                        "interview simulation",
+                        "simulate",
+                        "interview me as a job recruiter",
+                        "start internship interview",
+                        "start job interview "
+                    ]
+                },
+                {
+                    "name": "StartTechInterviewIntent",
+                    "slots": [],
+                    "samples": [
+                        "start a tech interview",
+                        "start a technical interview",
+                        "start a coding interview",
+                        "interview me for a coding job",
+                        "interview me for software engineering",
+                        "interview me for programming",
+                        "interview me for a programming job",
+                        "do a practice coding interview",
+                        "do a mock coding interview",
+                        "practice coding interview",
+                        "mock coding interview",
+                        "ask me multiple coding questions",
+                        "ask me multiple tech questions",
+                        "simulate a coding interview",
+                        "simulate a tech inteview",
+                        "simulate a technical interview",
+                        "coding interview simulation",
+                        "simulate programming interview",
+                        "simulate software interview",
+                        "interview me as a tech recruiter",
+                        "interview me as a technical recruiter"
+                    ]
+                },
+                {
+                    "name": "StartBusinessInterviewIntent",
+                    "slots": [],
+                    "samples": [
+                        "start a business interview",
+                        "start a marketing interview",
+                        "start a sales interview",
+                        "interview me for a business job",
+                        "interview me for business",
+                        "do a practice business interview",
+                        "do a mock business interview",
+                        "practice business interview",
+                        "mock business interview",
+                        "ask me multiple business questions",
+                        "simulate a business interview",
+                        "business interview simulation",
+                        "interview me as a business recruiter"
+                    ]
+                },
+                {
+                    "name": "StartCollegeInterviewIntent",
+                    "slots": [],
+                    "samples": [
+                        "start a college interview",
+                        "start a school interview",
+                        "start a university interview",
+                        "interview me for college",
+                        "interview me for university",
+                        "interview me for college application",
+                        "interview me as a college recruiter",
+                        "do a practice college interview",
+                        "do a mock college interview",
+                        "practice college interview",
+                        "mock university interview",
+                        "ask me multiple college questions",
+                        "ask me multiple college interview questions",
+                        "simulate a college interview",
+                        "simulate a university inteview",
+                        "simulate a school interview",
+                        "college interview simulation"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
